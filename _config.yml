@@ -1,0 +1,41 @@
+title: A.S. Wheaton
+markdown: kramdown
+url: "aswheaton.net"
+baseurl: ""
+
+# for atom feed
+author:
+  name: Alexander S. Wheaton
+  email: alex.s.wheaton@gmail.com
+description: Signals in the cosmic deep.
+
+plugins:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate_path: "/page:num/"
+
+paginate: 5
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:categories/:year/:month/:day/:title/
+
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]

@@ -1,0 +1,10 @@
+list:
+  - title: Home
+    url: ""
+  - title: Blog
+    url: "blog"
+  - title: About
+    url: about
+  - title: Feed
+    url: feed.xml
+    target: "_blank"
