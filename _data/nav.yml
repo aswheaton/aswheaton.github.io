@@ -3,8 +3,12 @@ list:
     url: ""
   - title: Blog
     url: "blog"
+  - title: Astronomy
+    url: "astronomy"
+  - title: Linguistics
+    url: "linguistics"
   - title: About
     url: about
-  - title: Feed
-    url: feed.xml
-    target: "_blank"
+  # - title: Feed
+  #   url: feed.xml
+  #   target: "_blank"
