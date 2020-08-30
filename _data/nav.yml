@@ -7,6 +7,8 @@ list:
     url: "astronomy"
   - title: Linguistics
     url: "linguistics"
+  - title: Ceramics
+    url: "ceramics"
   - title: About
     url: about
   # - title: Feed
