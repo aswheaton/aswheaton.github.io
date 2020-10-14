@@ -17,4 +17,11 @@ Contact: alex (dot) s (dot) wheaton (at) gmail.com
 Other places:
 
 [GitHub](https://github.com/aswheaton)
-[Twitter](https://twitter.com/twheatings)
+<!-- [Twitter](https://twitter.com/twheatings) -->
+
+Friends around the web:
+
+[Junghyun Min](http://www.aatlantise.science)
+[Henry Weikel](http://www.henryweikel.net)
+[Maria Kuznetsov](http://mariakuz.github.io/)
+<!-- [Sylva](https://sylva.blog/) -->
