@@ -55,7 +55,7 @@ h6 {
 	color: var(--theme-color);
 	position: relative;
 }
-/* 
+/*
 h1:before,
 h2:before {
 	content: "#";
@@ -115,8 +115,9 @@ pre {
 }
 
 code {
+	/* Removed this because it was indenting code blocks.
 	margin: 0 2px;
-	padding: 3px 5px;
+	padding: 3px 5px; */
 	color: #437b91;
 	border-radius: 2px;
 	white-space: pre;
