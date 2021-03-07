@@ -1,16 +1,16 @@
 list:
   - title: Home
-    url: ""
+    url: "pages/about"
   - title: Blog
-    url: "blog"
+    url: "pages/blog"
   - title: Astronomy
-    url: "astronomy"
+    url: "pages/astronomy"
   - title: Linguistics
-    url: "linguistics"
+    url: "pages/linguistics"
   - title: Ceramics
-    url: "ceramics"
+    url: "pages/ceramics"
   - title: About
-    url: about
+    url: "pages/about"
   # - title: Feed
   #   url: feed.xml
   #   target: "_blank"

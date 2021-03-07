@@ -15,6 +15,8 @@
           display: grid;
         }
         .author-bio {
+          padding-left: 10%;
+          padding-right: 10%;
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -35,10 +37,10 @@
       <!-- page content -->
       <main class="content">
         <div class="author-bio">
-          <img src="{{page.profile_pic}}" alt="{{page.profile_pic_alt}}" />
-          <p>{{page.short_bio}}</p>
+          <!-- <img src="{{page.profile_pic}}" alt="{{page.profile_pic_alt}}" /> -->
+          <!-- <p>{{page.short_bio}}</p> -->
+          {{content}}
         </div>
-        {{content}}
       </main>
 
       <!-- footer -->
