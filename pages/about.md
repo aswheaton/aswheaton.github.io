@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-profile_pic: ""
+profile_pic: "/images/smyth_the_great_comet_of_1843_squared.jpg"
 profile_pic_alt: ""
 short_bio:
 ---
@@ -17,7 +17,8 @@ Contact: alex (dot) s (dot) wheaton (at) gmail.com
 Other places:
 
 [GitHub](https://github.com/aswheaton)
-<!-- [Twitter](https://twitter.com/twheatings) -->
+[Twitter](https://twitter.com/twheatings)
+[Strava](https://www.strava.com/athletes/64702069)
 
 Friends around the web:
 
