@@ -22,7 +22,7 @@ Other places:
 
 Friends around the web:
 
-[Junghyun Min](http://www.aatlantise.science)
-[Henry Weikel](http://www.henryweikel.net)
+[Junghyun Min](http://aatlantise.science)
+[Henry Weikel](http://henryweikel.net)
 [Maria Kuznetsov](http://mariakuz.github.io/)
-<!-- [Sylva](https://sylva.blog/) -->
+[Callum Abbott](http://causalcallum.com/)
